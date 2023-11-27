@@ -17,7 +17,7 @@ https://vk.com/unlock_video
 \
 \
 \
-\
+/usr/bin/tar -z -xf /home/runner/work/_temp/3d231989-e5d0-471c-bcb2-730ac244d9f7/cache.tgz -P -C /home/runner/work/VkVideoUnlocker/VkVideoUnlocker\
 \
 \
 \
