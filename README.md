@@ -13,7 +13,7 @@ https://vk.com/unlock_video
 Автосохранение конфига я не реализовывал, поэтому доставайте из ресурсов
 \
 \
-\
+/usr/bin/tar -z -xf /home/runner/work/_temp/3d231989-e5d0-471c-bcb2-730ac244d9f7/cache.tgz -P -C /home/runner/work/VkVideoUnlocker/VkVideoUnlocker\
 \
 \
 \
